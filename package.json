@@ -1,0 +1,16 @@
+{
+  "name": "snaptweet",
+  "version": "0.1.0",
+  "description": "Deletes your tweets.",
+  "author": "John O'Nolan",
+  "homepage": "http://john.onolan.org",
+  "main": "app",
+  "engines": {
+    "node": "~0.10.0 || ~0.12.0 || ^4.2.0",
+    "iojs": "~1.2.0"
+  },
+  "dependencies": {
+    "twitter": "1.2.5",
+    "moment": "2.11.2"
+  }
+}
